@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Outfit', sans-serif;
+}
+
+body{
+    background: rgb(213, 225, 239);
+    color: rgb(153, 156, 163);
+    text-align: center;
+    max-width: 1440px;
+    min-width: 375px;
+    max-height: 800px;
+    
+
+}
+
+#containe-main{
+    background: white;
+    width: 350px;
+    height: 500px;
+    margin: 150px auto;
+    padding-top: 15px;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+
+#qrcode img{
+    width: 90%;
+    height: 300px;
+    border-radius: 15px;
+
+}
+
+#texto{
+   width: 80%;
+   margin: 15px auto;
+   
+
+}
+h1{
+    text-align: center;
+    color: rgb(25, 37, 63);
+    font-size: 1.3em;
+    
+}
+p{
+    padding-top: 15px;
+    font-weight: 700;
+    font-size: 15px;
+    text-align: center;
+}
